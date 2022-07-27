@@ -1,4 +1,4 @@
-[![MasterHead](https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2022/01/18/1006616-iit-kgp-covid-restrictions.jpg)]
+![MasterHead](https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2022/01/18/1006616-iit-kgp-covid-restrictions.jpg)
 <h1 align="center">Hi 👋, I'm Bratin Mondal</h1>
 <h3 align="center">Undergrad student CSE at IIT Kharagpur</h3>
 <img align="middle" alt="CSE Student" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
