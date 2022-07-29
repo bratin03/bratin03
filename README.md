@@ -1,7 +1,7 @@
-![MasterHead](https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2022/01/18/1006616-iit-kgp-covid-restrictions.jpg)
+![MasterHead](https://bsmedia.business-standard.com/_media/bs/img/article/2016-10/17/full/1476705933-6474.jpg)
 <h1 align="center">Hi 👋, I'm Bratin Mondal</h1>
 <h3 align="center">Undergrad student CSE at IIT Kharagpur</h3>
-<img align="middle" alt="CSE Student" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="middle" alt="CSE Student" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bratin03&label=Profile%20views&color=0e75b6&style=flat" alt="bratin03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratin03" alt="bratin03" /></a> </p>
