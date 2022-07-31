@@ -1,4 +1,4 @@
-![MasterHead](https://bsmedia.business-standard.com/_media/bs/img/article/2016-10/17/full/1476705933-6474.jpg)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/99006f115423693.604e740477fb9.jpg)
 <h1 align="center">Hi 👋, I'm Bratin Mondal</h1>
 <h3 align="center">Undergrad student CSE at IIT Kharagpur</h3>
 <img align="middle" alt="CSE Student" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
