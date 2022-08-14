@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/99006f115423693.604e740477fb9.jpg)
 <h1 align="middle">Hi 👋, I'm Bratin Mondal</h1>
-<h3 align="center">Undergrad student CSE at IIT Kharagpur</h3>
+<h1 align="center">Undergrad student CSE at IIT Kharagpur</h1>
 <img align="middle" alt="CSE Student" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bratin03&label=Profile%20views&color=0e75b6&style=flat" alt="bratin03" /> </p>
 
