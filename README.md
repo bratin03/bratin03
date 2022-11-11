@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/99006f115423693.604e740477fb9.jpg)
 <h1 align="middle">Hi 👋, I'm Bratin Mondal</h1>
 <h1 align="center">Undergrad student CSE at IIT Kharagpur</h1>
-<img align="middle" alt="CSE Student" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="middle" alt="CSE Student" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bratin03&label=Profile%20views&color=0e75b6&style=flat" alt="bratin03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratin03" alt="bratin03" /></a> </p>
