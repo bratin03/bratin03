@@ -30,8 +30,8 @@
 
 <img align="middle" alt="CSE Student" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bratin03&show_icons=true&locale=en&layout=compact" alt="bratin03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bratin03&show_icons=true&locale=en" alt="bratin03" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bratin03&" alt="bratin03" /></p>
