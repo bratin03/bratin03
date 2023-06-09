@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bratin Mondal</h1>
-<h3 align="center">2nd Year CS UG @ IIT KGP</h3>
+<h3 align="center">Pre-Final Year CS UG @ IIT KGP</h3>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/99006f115423693.604e740477fb9.jpg)
 
