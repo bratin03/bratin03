@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratin03" alt="bratin03" /></a> </p>
 
-- 🌱 I’m currently learning **DL,Algorithms**
+- 🌱 I’m currently learning **Algorithms,Game Theory**
 
 - 👯 I’m looking to collaborate on **anything**
 
