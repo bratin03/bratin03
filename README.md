@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Algorithms,Game Theory**
 
-- 👯 I’m looking to collaborate on **anything**
-
-- 📫 How to reach me **mondalbratin2003@kgpiaan.iitkgp.ac.in**
+- 📫 How to reach me **mondalbratin2003@kgpian.iitkgp.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
