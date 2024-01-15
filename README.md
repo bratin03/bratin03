@@ -2,7 +2,31 @@
 <h1 align="center">Hi 👋, I'm Bratin Mondal</h1>
 <h3 align="center">Pre-Final Year CS UG @ IIT KGP</h3>
 
+<h3 align ="center">Currently in the Systems semester of my B-Tech Course :)</h3>  
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/e929b1ab-56eb-4235-bfe7-1a7a27ee52c3.svg)](https://wakatime.com/@e929b1ab-56eb-4235-bfe7-1a7a27ee52c3)
+
+</div>
+
+**Resources for IIT KGP CSE:**
+
+[Semester-3](https://github.com/bratin03/3RD-SEMESTER-CSE)
+
+[Semester-4](https://github.com/bratin03/4TH-SEMESTER-CSE)
+
+[Semester-5](https://github.com/bratin03/5TH-SEMESTER-CSE)
+
+
+
+
+<div align="center">
+
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/99006f115423693.604e740477fb9.jpg)
+
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bratin03&label=Profile%20views&color=0e75b6&style=flat" alt="bratin03" /> </p>
 
