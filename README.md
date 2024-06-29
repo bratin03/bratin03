@@ -28,11 +28,6 @@
 
 </div>
 
-
-
-
-- 🌱 I’m currently learning **Algorithms,Game Theory**
-
 - 📫 How to reach me **mondalbratin2003@kgpian.iitkgp.ac.in**
 
 <h3 align="left">Connect with me:</h3>
