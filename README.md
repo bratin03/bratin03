@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bratin Mondal</h1>
-<h3 align="center">Final Year CS UG @ IIT KGP</h3>
+<h3 align="center">CSE IIT KGP</h3>
 
 
 
@@ -9,17 +9,6 @@
 [![wakatime](https://wakatime.com/badge/user/e929b1ab-56eb-4235-bfe7-1a7a27ee52c3.svg)](https://wakatime.com/@e929b1ab-56eb-4235-bfe7-1a7a27ee52c3)
 
 </div>
-
-**Resources for IIT KGP CSE:**
-
-[Semester-3](https://github.com/bratin03/3RD-SEMESTER-CSE)
-
-[Semester-4](https://github.com/bratin03/4TH-SEMESTER-CSE)
-
-[Semester-5](https://github.com/bratin03/5TH-SEMESTER-CSE)
-
-[Semester-6](https://github.com/bratin03/6TH-SEMESTER-CSE)
-
 
 
 <div align="center">
